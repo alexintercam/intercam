@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace controle_operacional
 {
-    public partial class Form1 : Form
+    public partial class Form4 : Form
     {
-        public Form1()
+        public Form4()
         {
             InitializeComponent();
         }
