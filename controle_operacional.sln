@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle_operacional", "Controle_operacional.csproj", "{8F669AA9-7B01-45B9-AD33-1F168360485E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F669AA9-7B01-45B9-AD33-1F168360485E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F669AA9-7B01-45B9-AD33-1F168360485E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F669AA9-7B01-45B9-AD33-1F168360485E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F669AA9-7B01-45B9-AD33-1F168360485E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B575C9B-4932-473D-9EE7-3640430188F6}
+	EndGlobalSection
+EndGlobal
