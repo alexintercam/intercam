@@ -17,14 +17,14 @@ namespace controle_operacional
             InitializeComponent();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void Button6_Click(object sender, EventArgs e)
         {
             this.Hide();
             var myForm = new Controle_operacional();
             myForm.Show();
         }
 
-        private void toolStripButton1_Click(object sender, EventArgs e)
+        private void ToolStripButton1_Click(object sender, EventArgs e)
         {
             this.Hide();
             var myForm = new Controle_operacional();
